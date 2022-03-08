@@ -32,3 +32,4 @@ You can find this lesson [here](https://carpentries-incubator.github.io/jekyll-p
 4. We don't use it in the Carpentries
 
 ![Carpentries Logo](https://github.com/carpentries/carpentries.org/raw/main/images/TheCarpentries-opengraph.png)
+Emphasis, aka italics, with *asterisks* or _underscores_.
